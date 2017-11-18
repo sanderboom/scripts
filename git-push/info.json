@@ -1,0 +1,9 @@
+{
+  "name": "GIT push",
+  "identifier": "git-push",
+  "script": "git-push.qml",
+  "version": "0.0.1",
+  "minAppVersion": "17.10.6",
+  "authors": ["@sanderboom"],
+  "description" : "This script will attempt a git push."
+}
